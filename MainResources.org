@@ -1,4 +1,4 @@
-This Gir repo contains a colection of may them be important or less important
+This Git repo contains a colection of, may them be important or less important,
 files on the creation/development of FTC robots and pieces of software
 
 * The main files are PDFs and are the official form of documentation for FTC
